@@ -56,5 +56,16 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "TopDownShooting - Student.slnx"
+    "files.associations": {
+        "*.asset": "yaml",
+        "*.meta": "yaml",
+        "*.prefab": "yaml",
+        "*.unity": "yaml"
+    },
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.patterns": {
+        "*.sln": "*.csproj",
+        "*.slnx": "*.csproj"
+    },
+    "dotnet.defaultSolution": "bu-2026-sem1-gi262-week04-1670700010.slnx"
 }
